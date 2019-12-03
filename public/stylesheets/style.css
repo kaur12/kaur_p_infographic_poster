@@ -13,3 +13,9 @@ a {
   stroke-width: 1pt;
   stroke: white;
 }
+
+header {
+  margin-left: 30px;
+  margin-right: 30px;
+  top: 10px;
+}
